@@ -1,0 +1,23 @@
+.tm-custom-header{
+    color:white;    
+}
+.tm-custom-jumbotron{
+    background-image: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), url("../images/back.jpg");
+    background-repeat:no-repeat; background-size:1130px 450px;    
+    height:280px;
+    padding-top:200px;
+    padding-left:100px;
+    padding-right:100px;
+}
+.tm-padding-top{
+    padding-top:50px;    
+    
+}
+
+.tm-fieldset-back{
+    background-color:white;    
+}
